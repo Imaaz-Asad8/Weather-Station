@@ -284,10 +284,10 @@ String latitude = "40.4259";
 String longitude = "-86.9081";
 int y;
 
-const char *ssid = "MyWifi2";
-const char *password = "Jordan#6969";
+const char *ssid = "xyz";
+const char *password = "xyz";
 
-String api_key = "eca2ef041552d90deed3e62534233a2e";
+String api_key = "xyz";
 
 String daily_path =
     "https://api.openweathermap.org/data/4.0/onecall/timeline/1day"
